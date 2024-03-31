@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "author": "Dolf Intyre <dolf@threedeemonster.com>",
   "scripts": {
-        "build": "npm build'"
+        "build": "npm build"
     },
 }
